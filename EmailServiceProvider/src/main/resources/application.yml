@@ -16,6 +16,6 @@ spring:
       enable: 'true'
      auth: 'true'
   host: smtp.gmail.com
-  username: nahomhagos29@gmail.com
-  password: zyozjpumirkseurl
+  username: ********@gmail.com
+  password: ********
   port: '587'
